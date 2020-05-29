@@ -58,11 +58,11 @@ header {
 
 .form-group input:focus,
 .form-group select:focus {
-  border-color: #FF7373;
+  border-color: #0077B6;
 }
 
 .form-group button {
-  background-image: linear-gradient(-90deg, #FF7373 0%, #FDDB33 100%);
+  background-image: linear-gradient(-90deg, #0077B6 0%, #90E0EF 100%);
   border-radius: 5px;
   border: 0;
   height: 45px;
@@ -99,5 +99,5 @@ header {
 }
 
 .result-content ul li strong {
-  color: #FF7373;
+  color: #90E0EF;
 }
